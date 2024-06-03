@@ -214,7 +214,7 @@ class VoterList
             
             
             String arr[]={"BT21CSE171 DEEPAK SINGH CHAUHAN","BT21CSE179 AAYUSH PATIL","BT21CSE206 PRIYANSHU SINGH"
-            ,"BT21CSE200 VAIBHAV TAYVADE","BT21CSE131 PRANAV CHANDAK"};
+            ,"BT21CSE200 VAIBHAV TAYVADE","BT21CSE131 PRANAV CHANDAK","BT21CSE183 JAYENDRA MISHRA"};
 
             int length=arr.length;
             for(int i=0;i<length;i++)
